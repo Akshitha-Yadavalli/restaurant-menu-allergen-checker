@@ -1,0 +1,88 @@
+Cheese Pizza
+Ingredients:
+cheese
+milk
+pizza
+bread
+tomato
+
+------------------------
+
+Chicken Burger
+Ingredients:
+chicken
+bread
+bun
+butter
+mayonnaise
+
+------------------------
+
+Peanut Noodles
+Ingredients:
+peanut
+noodles
+soy sauce
+
+------------------------
+
+Shrimp Curry
+Ingredients:
+shrimp
+curry
+cream
+
+------------------------
+
+Chocolate Cake
+Ingredients:
+cake
+milk
+egg
+butter
+chocolate
+
+------------------------
+
+Veg Salad
+Ingredients:
+lettuce
+tomato
+cucumber
+carrot
+
+------------------------
+
+Margherita Pizza
+Ingredients:
+cheese
+milk
+pizza
+bread
+
+------------------------
+
+Butter Chicken
+Ingredients:
+chicken
+butter
+cream
+milk
+
+------------------------
+
+Paneer Butter Masala
+Ingredients:
+paneer
+butter
+cream
+milk
+
+------------------------
+
+Veg Fried Rice
+Ingredients:
+rice
+carrot
+beans
+soy sauce

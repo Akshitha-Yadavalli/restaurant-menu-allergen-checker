@@ -1,0 +1,65 @@
+Milk:
+cheese
+butter
+cream
+paneer
+milk
+yogurt
+ice cream
+chocolate
+milk powder
+
+--------------------------------
+
+Peanut:
+peanut
+groundnut
+peanut butter
+peanut oil
+
+--------------------------------
+
+Egg:
+egg
+cake
+mayonnaise
+omelette
+
+--------------------------------
+
+Wheat:
+bread
+bun
+pizza
+burger
+pasta
+noodles
+
+--------------------------------
+
+Shellfish:
+shrimp
+crab
+lobster
+
+--------------------------------
+
+Fish:
+salmon
+tuna
+sardines
+
+--------------------------------
+
+Soy:
+soy sauce
+soy milk
+tofu
+
+--------------------------------
+
+Tree Nuts:
+almond
+cashew
+walnut
+pistachio
