@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Restaurant Menu Allergen Checker
 
 ## Overview
@@ -28,3 +29,6 @@ The application retrieves ingredient information from a local knowledge base and
 pip install -r requirements.txt
 
 streamlit run app.py
+=======
+# restaurant-menu-allergen-checker
+>>>>>>> 35bd2ada3b2e8558ee3f4c4bf7d25f43fa47acf0
